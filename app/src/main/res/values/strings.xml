@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EU Wallpapers</string>
+    <string name="explorer_title">EU Explorer</string>
+    <string name="action_reshuffle">Shuffle catalog</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_back">Back</string>
+    <string name="action_download">Download Full Quality</string>
+    <string name="action_downloading">Downloading %1$d%%</string>
+    <string name="action_downloading_indeterminate">Downloading…</string>
+    <string name="action_saved">Saved to Pictures</string>
+</resources>
